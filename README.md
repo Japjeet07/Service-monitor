@@ -1,4 +1,28 @@
 
+### Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Japjeet07/Service-monitor.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the Project
+
+Start the development server:
+```bash
+npm run dev
+```
+
+This will launch the application in development mode. Open your browser and navigate to `http://localhost:3000` (or the port specified in the terminal) to view the application.
+
+```markdown
 ## Overview
 
 This is a web application designed to monitor and manage the status of various infrastructure services. It provides real-time updates, detailed service metrics, and historical event tracking to ensure seamless operations and quick troubleshooting.
